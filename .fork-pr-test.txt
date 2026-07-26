@@ -1,1 +1,1 @@
-verify #566 fork-PR lookup fix (run bfbd73f-retrigger)
+verify #567 fork-PR lookup fix e2e (run 2026-07-26-a)
